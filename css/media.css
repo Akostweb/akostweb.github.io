@@ -70,19 +70,19 @@
     padding-top: 25px;
     margin-bottom: 40px;
   }
-  #workwith-div .container {
+  #workwith-div .container-fluid {
     max-width: 1200px;
     width: 100% !important;
   }
-  #workwith-div .container .row {
+  #workwith-div .container-fluid .row {
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
   }
-  #workwith-div .container .row #inline .block {
+  #workwith-div .container-fluid .row #inline .block {
     margin-bottom: 20px !important;
   }
-  #workwith-div .container .row #inline h6 {
+  #workwith-div .container-fluid .row #inline h6 {
     font-size: 12px;
   }
 
