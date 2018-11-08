@@ -518,7 +518,7 @@
             justify-content: center;
   }
   #workwith-div .container-fluid .row #inline {
-    width: 100%;
+    width: 70%;
   }
   #workwith-div .container-fluid .row #inline .block {
     margin-bottom: 30px !important;
