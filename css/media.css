@@ -518,11 +518,11 @@
             justify-content: center;
   }
   #workwith-div .container-fluid .row #inline {
-    width: 70%;
+    width: 100%;
   }
   #workwith-div .container-fluid .row #inline .block {
     margin-bottom: 30px !important;
-    width: 100%;
+    width: 70%;
   }
   #workwith-div .container-fluid .row #inline .block h6 {
     font-size: 12px;
