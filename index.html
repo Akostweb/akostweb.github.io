@@ -42,6 +42,12 @@
   <div class="arjs-loader">
     <div>Loading, please wait...</div>
   </div>
+  <div style="background: red; position: absolute; left: 0; top: 0; z-index: -3">
+    hello dino
+  </div>
+  <div style="background: blue; position: absolute; right: 0; top: 0; z-index: -3">
+    hello dino
+  </div>
   <a-scene
     vr-mode-ui="enabled: false;"
     renderer="logarithmicDepthBuffer: true;"
@@ -68,12 +74,7 @@
       <a-entity camera light="type: ambient; color: #CCC">
       </a-entity>
     </div>
-    <div style="background: red; position: absolute; left: 0; top: 0">
-      hello dino
-    </div>
-    <div style="background: blue; position: absolute; right: 0; top: 0">
-      hello dino
-    </div>
+    
   </a-scene>
 </body>
 </html>
